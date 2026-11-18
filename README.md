@@ -32,3 +32,7 @@ O arquivo `vercel.json` já está incluído.
 ## Observação sobre o conteúdo
 
 O conteúdo foi organizado a partir do PDF enviado. Números, datas, instituições e referências legais foram mantidos como apresentados no material, sem verificação externa independente. Antes de usar o site como material oficial ou público, recomenda-se conferir especialmente dados estatísticos de 2025/2026 e a vigência/interpretação das normas citadas.
+
+# educacao_ambiental_UEMA
+Site institucional/educativo de página única, desenvolvido com HTML, CSS e JavaScript puro. Não utiliza framework nem dependências de build: é leve, rápido e pode ser publicado diretamente no Vercel.
+bb287e8ba27f680b72e926b138d84f28b4f224af
